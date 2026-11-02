@@ -51,6 +51,7 @@ Revisada el 1-nov-2026 con Claude Code 2.1.316. Marca cada casilla al terminarla
 - [ ] [Opus 5.5 vs Sonnet 5.5 vs Haiku 5.5 en Claude Code: cuál usar](https://ctrlia.dev/recetas/opus-sonnet-haiku.html)
 - [ ] [Claude Code Opus 4.8: el modo rápido acaba el 30-nov, pasa a 5.5](https://ctrlia.dev/recetas/opus-48-modo-rapido.html)
 - [ ] [5 comandos de Claude Code imprescindibles, listos para copiar](https://ctrlia.dev/recetas/pack-comandos.html)
+- [ ] [Comandos de Claude Code: chuleta de slash, atajos y flags](https://ctrlia.dev/recetas/comandos-claude-code.html)
 
 ### Ampliar Claude Code
 
