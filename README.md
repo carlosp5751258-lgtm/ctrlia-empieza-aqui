@@ -2,6 +2,8 @@
 
 🇬🇧 [Read in English](README.en.md)
 
+English version: [README.en.md](README.en.md) (archivos en `en/`).
+
 La ruta de Ctrl+IA para aprender Claude Code en orden: 10 pasos, cada uno enlazado a una receta probada con la versión
 2.1.316, toda la biblioteca como lista para marcar tu progreso y un proyecto de práctica para tu primera tarea real.
 
@@ -10,7 +12,7 @@ Página completa: [ctrlia.dev (ES)](https://ctrlia.dev/recetas/empieza-aqui.html
 
 ## Qué incluye
 
-- `ruta.md` / `route.en.md`: los 10 pasos y todos los contenidos de Ctrl+IA en orden, con casillas `- [ ]` para marcar.
+- `ruta.md` / `en/route.md`: los 10 pasos y todos los contenidos de Ctrl+IA en orden, con casillas `- [ ]` para marcar.
 - `proyecto-practica/`: una calculadora de precios en Python (solo biblioteca estándar) con un `TODO` y dos tests que
   fallan hasta que lo resuelves. Es la «primera tarea real» de la ruta.
 
